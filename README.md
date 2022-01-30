@@ -8,3 +8,8 @@ distribution to formatting TSX and its relatives.
 
 Leveraging the excellent [Treesitter](https://tree-sitter.github.io/tree-sitter/)
 will hopefully allow us to do this with relatively little effort.
+
+## Developing
+
+Copy JS/TSX/ES/ESX into the [Tree-Sitter playground](https://tree-sitter.github.io/tree-sitter/playground).
+This formats the parse tree in a nice way and allows interactive selection.
